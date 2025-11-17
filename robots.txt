@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://taliultra.github.io/ragdoll-glory/sitemap.xml
